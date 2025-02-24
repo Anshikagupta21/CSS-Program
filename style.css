@@ -1,0 +1,29 @@
+#para{
+    font-size: 50px;
+    color: rgb(255, 0, 183);
+     /* text-align: center; */
+   /* border-width: 1px;
+    border-style: dotted;
+    border-color: black;*/
+    border: 2px solid red;
+    border-radius: 10px;
+    padding-right: 30px;
+    margin-right: 10px;
+
+}
+#textt{
+    color: blue;
+}
+
+.t1{
+    color: bisque;
+}
+p{
+    font-size: x-large;
+    background-color: rgb(144, 183, 52);
+    border: 5px solid black;
+}
+img{
+    border-width: 10px;
+    border-color: black;
+}

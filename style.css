@@ -27,3 +27,6 @@ img{
     border-width: 10px;
     border-color: black;
 }
+span{
+    font-style: italic;
+}

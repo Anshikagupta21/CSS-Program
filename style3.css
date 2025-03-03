@@ -11,8 +11,12 @@
 }
 #headpart nav ul{
     display:flex ;
-    gap: 20%;
+    gap: 20px;
     list-style: none;
     
+}
+#headpart  nav ul li a{
+    color:blue;
+    text-decoration: none;
 }
 
